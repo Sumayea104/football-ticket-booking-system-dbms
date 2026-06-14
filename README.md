@@ -15,7 +15,9 @@ This project implements a complete database design and SQL queries for a Footbal
 - **Bookings** - Ticket purchase transactions
 
 ## 📊 ERD Link
-[View ERD Diagram]()
+![Football Ticket Booking System ERD](https://github.com/Sumayea104/football-ticket-booking-system-dbms/blob/main/erd/erd.drawio.png?raw=true)
+
+[Open Full Resolution Link](https://github.com/Sumayea104/football-ticket-booking-system-dbms/blob/main/erd/erd.drawio.png)
 
 ## 📝 SQL Queries Completed
 - [x] Query 1: Champions League available matches
