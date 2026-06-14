@@ -1,22 +1,3 @@
-### 1. Foreign Keys
-
-> **What role does a Foreign Key play?**
-
-* **The Concept:** A Foreign Key links data.
-# Football Ticket Booking System
----
-
-### 3. Check for Trailing or Double Extensions
-If your file is named something like `README.md.txt` or `README.md.html`, GitHub will render it as a plain text file rather than a webpage layout. Ensure the filename is exactly:
-`README.md`
-
----
-
-### Clean, Fully Formatted Copy-Paste Code
-
-Here is the clean, structurally verified markdown block. Select everything inside the box below, clear out your current file, paste this in, and commit the changes:
-
-```markdown
 # Football Ticket Booking System - Database Theory & Architecture
 
 This document breaks down key database design principles, constraint mechanisms, and query logic using clear, real-world analogies.
