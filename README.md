@@ -7,7 +7,7 @@ This project implements a complete database design and SQL queries for a Footbal
 - `/sql` - All SQL scripts (CREATE, INSERT, QUERIES)
 - `/erd` - Entity Relationship Diagram
 - `/documentation` - Theory answers
-- `/screenshots` - Query output proofs
+
 
 ## 🗄️ Database Schema
 - **Users** - Fan and staff information
@@ -29,7 +29,7 @@ This project implements a complete database design and SQL queries for a Footbal
 - [x] Query 7: OFFSET/LIMIT for ranking
 
 ## 🎥 Viva Video
-[Interview Recording Link]()
+[Interview Recording Link](https://drive.google.com/file/d/1FAI1APzua1_CGRzriuOHWBpnxCMW91SA/view?usp=drivesdk)
 
 ## 🚀 How to Run
 1. Create database: `CREATE DATABASE football_ticket_system;`
