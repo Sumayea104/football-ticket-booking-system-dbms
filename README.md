@@ -33,6 +33,6 @@ This project implements a complete database design and SQL queries for a Footbal
 
 ## 🚀 How to Run
 1. Create database: `CREATE DATABASE football_ticket_system;`
-2. Run `01_create_tables.sql`
-3. Run `02_insert_sample_data.sql`
-4. Run `03_queries.sql`
+2. Run `create_tables.sql`
+3. Run `insert_sample_data.sql`
+4. Run `queries.sql`
